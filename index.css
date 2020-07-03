@@ -282,14 +282,32 @@ h5{
 }
 /* gradiant background: https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_diagonal 
 used the site above to learn how to create a gradient background */
+/* color changing background code taken from:
+https://codepen.io/P1N2O/pen/pyBNzX */
 .main3{
-    background-image: linear-gradient(#f57a0e, #f5990e, rgb(16, 145, 68), rgb(12, 94, 44), rgb(5, 87, 29));
+    background: linear-gradient(-45deg,#f57a0e,rgb(16, 145, 68), rgb(8, 87, 46));
+	background-size: 400% 400%;
+    animation: gradient 4s ease infinite;
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 5%;
     text-align: center;
     min-height: 100%;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 h3{
