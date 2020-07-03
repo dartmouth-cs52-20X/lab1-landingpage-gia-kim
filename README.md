@@ -16,4 +16,4 @@ I also wanted the color background to change while hovering over the options in 
 I made the logo and certain text on the website change its value when hovering. One of the backgrounds in the website has an animating background. The different options on the nav bar takes you the appropriate area (text area?) within the website when clicked. I also made the scroll bar a different color. 
 
 ## Screenshots
-![](gh-pages/%201sc.png)
+![](gh-pages/1sc%20.png)
