@@ -17,3 +17,6 @@ I made the logo and certain text on the website change its value when hovering. 
 
 ## Screenshots
 ![](images/1sc.png)
+![](images/2sc.png)
+![](images/3sc.png)
+![](images/4sc.png)
