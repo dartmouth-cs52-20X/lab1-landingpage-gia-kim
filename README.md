@@ -16,7 +16,4 @@ I also wanted the color background to change while hovering over the options in 
 I made the logo and certain text on the website change its value when hovering. One of the backgrounds in the website has an animating background. The different options on the nav bar takes you the appropriate area (text area?) within the website when clicked. I also made the scroll bar a different color. 
 
 ## Screenshots
-![Alt text](/relative/path/to/1sc.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/2sc.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/3sc.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/4sc.jpg?raw=true "Optional Title")
+![](filename%201sc.png)
