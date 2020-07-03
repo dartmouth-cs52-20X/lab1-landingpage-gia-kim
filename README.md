@@ -2,7 +2,7 @@
 
 *This website is supposed to demonstrate how I feel about frogs.*
 
-[deployed url](http://symptomatic-ant.surge.sh/)
+[my website!](http://symptomatic-ant.surge.sh/)
 
 ## What Worked Well
 I had a lot of fun playing around with the CSS and making it look as chaotic as possible.
